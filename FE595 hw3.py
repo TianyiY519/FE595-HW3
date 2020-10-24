@@ -5,7 +5,7 @@ Created on Wed Oct 21 23:14:52 2020
 
 @author: tianyiyang
 """
-
+# This is the total of the HW3's code.
 # import packages
 import pandas as pd
 from textblob import TextBlob
